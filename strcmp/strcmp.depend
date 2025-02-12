@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1737476992 source:c:\users\altino.ferreira\desktop\programacao\c\strcmp\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
